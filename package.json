@@ -5,7 +5,7 @@
   "author": "Matthew Grill <matt.grill@acquia.com>",
   "description": "A helpful bot for Drupal IRC channels.",
   "scripts": {
-    "start": "./node_modules/.bin/hubot -a irc --name druplibot"
+    "start": "./node_modules/.bin/hubot -a irc --name lebotski"
   },
   "dependencies": {
     "hubot": "^2.19.0",
